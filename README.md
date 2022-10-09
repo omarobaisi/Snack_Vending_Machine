@@ -1,5 +1,7 @@
 # Snack_Vending_Machine
 
+start the application by doing run file to the main function in SnackMachine.java file inside Snack_Vending_Machine/src/main/java/com/mycompany/snack_vending_machine/SnackMachine.java
+
 # The UML diagram
 
 https://drive.google.com/file/d/1yBj9fAHXr_IfjXVGT-0DZssk2r2_TyMj/view?usp=sharing
